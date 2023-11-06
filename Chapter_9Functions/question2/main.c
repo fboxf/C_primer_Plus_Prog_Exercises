@@ -8,7 +8,7 @@
 
 int main (void)
 {
-	char ch[] = "Indiana Celine Chollet";
+	char ch[] = "And now for something completely different..";
 
 	chline(ch, 3,15);
 
