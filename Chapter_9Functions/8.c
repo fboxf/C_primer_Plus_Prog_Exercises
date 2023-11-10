@@ -12,12 +12,10 @@ int main (void)
 	return 0;
 }
 
-
 double power (double n, int p)
 {
 	int i;
 	double pow = 1;
-
 
 	if (p > 0)
 	{
